@@ -1,0 +1,14 @@
+C:\Users\mardin\OneDrive\Desktop\C# EXAM\bin\Debug\net9.0\C# EXAM.exe
+C:\Users\mardin\OneDrive\Desktop\C# EXAM\bin\Debug\net9.0\C# EXAM.deps.json
+C:\Users\mardin\OneDrive\Desktop\C# EXAM\bin\Debug\net9.0\C# EXAM.runtimeconfig.json
+C:\Users\mardin\OneDrive\Desktop\C# EXAM\bin\Debug\net9.0\C# EXAM.dll
+C:\Users\mardin\OneDrive\Desktop\C# EXAM\bin\Debug\net9.0\C# EXAM.pdb
+C:\Users\mardin\OneDrive\Desktop\C# EXAM\obj\Debug\net9.0\C# EXAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mardin\OneDrive\Desktop\C# EXAM\obj\Debug\net9.0\C# EXAM.AssemblyInfoInputs.cache
+C:\Users\mardin\OneDrive\Desktop\C# EXAM\obj\Debug\net9.0\C# EXAM.AssemblyInfo.cs
+C:\Users\mardin\OneDrive\Desktop\C# EXAM\obj\Debug\net9.0\C# EXAM.csproj.CoreCompileInputs.cache
+C:\Users\mardin\OneDrive\Desktop\C# EXAM\obj\Debug\net9.0\C# EXAM.dll
+C:\Users\mardin\OneDrive\Desktop\C# EXAM\obj\Debug\net9.0\refint\C# EXAM.dll
+C:\Users\mardin\OneDrive\Desktop\C# EXAM\obj\Debug\net9.0\C# EXAM.pdb
+C:\Users\mardin\OneDrive\Desktop\C# EXAM\obj\Debug\net9.0\C# EXAM.genruntimeconfig.cache
+C:\Users\mardin\OneDrive\Desktop\C# EXAM\obj\Debug\net9.0\ref\C# EXAM.dll
